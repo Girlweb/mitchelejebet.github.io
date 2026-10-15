@@ -31,7 +31,7 @@ plugins:
 author:
   name: "Mitchele Jebet"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Security engineer | Threat Detection & AI-Powered Automation | Building open source security tooling for Africa 🔒"
+  bio: "Security engineer specialising in threat detection, incident response, and AI security. Building open source security tooling for Africa."
   location: "Nairobi, Kenya"
   links:
     - label: "Portfolio"
