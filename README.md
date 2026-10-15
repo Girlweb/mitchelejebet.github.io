@@ -1,27 +1,41 @@
-# Minimal Mistakes remote theme starter
+# Mitchele Jebet — GitHub Pages Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Personal portfolio and professional profile built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages.
 
-Contains basic configuration to get you a site with:
+## Live Site
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+[mitchelejebet.github.io](https://mitchelejebet.github.io)
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## About
 
----
+Security engineer building AI-powered detection systems and open source security tooling. Specialising in threat detection, incident response, and AI security — on the path to Security Architecture.
 
-## Troubleshooting
+## Built With
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+- **Jekyll** — static site generator
+- **Minimal Mistakes** — Jekyll theme
+- **GitHub Pages** — hosting
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Structure
+
+```
+MitcheleJebet.github.io/
+├── _pages/
+│   ├── about.md        # About page with bio, skills, certifications
+│   ├── 404.md
+│   ├── category-archive.md
+│   ├── tag-archive.md
+│   └── year-archive.md
+├── _posts/             # Blog posts and writeups
+├── assets/
+│   └── images/         # Profile photo and media
+├── _config.yml         # Site configuration
+└── index.html          # Homepage
+```
+
+## Contact
+
+- **Email:** jebetmitchele@gmail.com
+- **LinkedIn:** [linkedin.com/in/mitchele-jebet](https://www.linkedin.com/in/mitchele-jebet)
+- **GitHub:** [@Girlweb](https://github.com/Girlweb)
+- **Portfolio:** [mitchele-jebet.pages.dev](https://mitchele-jebet.pages.dev)
