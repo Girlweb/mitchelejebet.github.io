@@ -45,7 +45,7 @@ Security Architect
 -  **[ADS Framework SOAR Platform](https://ads-soar-platform.onrender.com)** — Open source SOAR reducing false positives by 84%
 -  **[FreelancePay Tracker](https://freelance-tracker-qayl.vercel.app)** — Full-stack financial management app
 -  **[Network Security & IoT Forensics Tool](/projects/)** — 100,000+ packets processed, 12 CVEs found
-- 🔧 **[DevSecOps Security Assessment Platform](/projects/)** — Automated CI/CD security scanning
+-  **[DevSecOps Security Assessment Platform](/projects/)** — Automated CI/CD security scanning
 
 ---
 
@@ -71,7 +71,7 @@ Moringa School · 2024 – 2025
 
 ## Contact
 
-- 📧 [jebetmitchele@gmail.com](mailto:jebetmitchele@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitchele-jebet)
-- 🐙 [GitHub](https://github.com/Girlweb)
-- 🌐 [Portfolio](https://mitchele-jebet.pages.dev)
+-  [jebetmitchele@gmail.com](mailto:jebetmitchele@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/mitchele-jebet)
+-  [GitHub](https://github.com/Girlweb)
+-  [Portfolio](https://mitchele-jebet.pages.dev)
